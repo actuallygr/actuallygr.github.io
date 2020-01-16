@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["features-settings-settings-module"],{
 
-/***/ "../../node_modules/raw-loader/dist/cjs.js!./src/app/features/settings/settings/settings-container.component.html":
-/*!********************************************************************************************************************************************************************!*\
-  !*** J:/IntellijProjects/angular-ngrx-material-starter/node_modules/raw-loader/dist/cjs.js!./src/app/features/settings/settings/settings-container.component.html ***!
-  \********************************************************************************************************************************************************************/
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/features/settings/settings/settings-container.component.html":
+/*!********************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/features/settings/settings/settings-container.component.html ***!
+  \********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23,9 +23,9 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "SettingsRoutingModule", function() { return SettingsRoutingModule; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "../../node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "../../node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "../../node_modules/@angular/router/fesm2015/router.js");
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
 /* harmony import */ var _settings_settings_container_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./settings/settings-container.component */ "./src/app/features/settings/settings/settings-container.component.ts");
 
 
@@ -61,9 +61,9 @@ SettingsRoutingModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "SettingsModule", function() { return SettingsModule; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "../../node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "../../node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/common */ "../../node_modules/@angular/common/fesm2015/common.js");
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/common */ "./node_modules/@angular/common/fesm2015/common.js");
 /* harmony import */ var _shared_shared_module__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../shared/shared.module */ "./src/app/shared/shared.module.ts");
 /* harmony import */ var _settings_routing_module__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./settings-routing.module */ "./src/app/features/settings/settings-routing.module.ts");
 /* harmony import */ var _settings_settings_container_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./settings/settings-container.component */ "./src/app/features/settings/settings/settings-container.component.ts");
@@ -95,7 +95,7 @@ SettingsModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (".container {\n  margin-top: 20px;\n}\n\nh1 {\n  margin: 0 0 20px 0;\n  text-transform: uppercase;\n}\n\nh2 {\n  margin: 0 0 10px 0;\n  text-transform: uppercase;\n}\n\n.group {\n  margin: 0 0 40px 0;\n}\n\n.icon-form-field {\n  position: relative;\n  display: -webkit-box;\n  display: flex;\n  height: 65.5px;\n  -webkit-box-align: center;\n          align-items: center;\n}\n\n.icon-form-field mat-placeholder {\n  -webkit-box-flex: 2;\n          flex: 2 1 auto;\n}\n\nmat-icon {\n  margin: 0 6px 6px 0;\n  font-size: 20px;\n}\n\nmat-form-field {\n  -webkit-box-flex: 1;\n          flex: 1 0 auto;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInByb2plY3RzL2FuZ3VsYXItbmdyeC1tYXRlcmlhbC1zdGFydGVyL3NyYy9hcHAvZmVhdHVyZXMvc2V0dGluZ3Mvc2V0dGluZ3MvSjpcXEludGVsbGlqUHJvamVjdHNcXGFuZ3VsYXItbmdyeC1tYXRlcmlhbC1zdGFydGVyL3Byb2plY3RzXFxhbmd1bGFyLW5ncngtbWF0ZXJpYWwtc3RhcnRlclxcc3JjXFxhcHBcXGZlYXR1cmVzXFxzZXR0aW5nc1xcc2V0dGluZ3NcXHNldHRpbmdzLWNvbnRhaW5lci5jb21wb25lbnQuc2NzcyIsInByb2plY3RzL2FuZ3VsYXItbmdyeC1tYXRlcmlhbC1zdGFydGVyL3NyYy9hcHAvZmVhdHVyZXMvc2V0dGluZ3Mvc2V0dGluZ3Mvc2V0dGluZ3MtY29udGFpbmVyLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsZ0JBQUE7QUNDRjs7QURFQTtFQUNFLGtCQUFBO0VBQ0EseUJBQUE7QUNDRjs7QURFQTtFQUNFLGtCQUFBO0VBQ0EseUJBQUE7QUNDRjs7QURFQTtFQUNFLGtCQUFBO0FDQ0Y7O0FERUE7RUFDRSxrQkFBQTtFQUNBLG9CQUFBO0VBQUEsYUFBQTtFQUNBLGNBQUE7RUFDQSx5QkFBQTtVQUFBLG1CQUFBO0FDQ0Y7O0FEQ0U7RUFDRSxtQkFBQTtVQUFBLGNBQUE7QUNDSjs7QURHQTtFQUNFLG1CQUFBO0VBQ0EsZUFBQTtBQ0FGOztBREdBO0VBQ0UsbUJBQUE7VUFBQSxjQUFBO0FDQUYiLCJmaWxlIjoicHJvamVjdHMvYW5ndWxhci1uZ3J4LW1hdGVyaWFsLXN0YXJ0ZXIvc3JjL2FwcC9mZWF0dXJlcy9zZXR0aW5ncy9zZXR0aW5ncy9zZXR0aW5ncy1jb250YWluZXIuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuY29udGFpbmVyIHtcclxuICBtYXJnaW4tdG9wOiAyMHB4O1xyXG59XHJcblxyXG5oMSB7XHJcbiAgbWFyZ2luOiAwIDAgMjBweCAwO1xyXG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XHJcbn1cclxuXHJcbmgyIHtcclxuICBtYXJnaW46IDAgMCAxMHB4IDA7XHJcbiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcclxufVxyXG5cclxuLmdyb3VwIHtcclxuICBtYXJnaW46IDAgMCA0MHB4IDA7XHJcbn1cclxuXHJcbi5pY29uLWZvcm0tZmllbGQge1xyXG4gIHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuICBkaXNwbGF5OiBmbGV4O1xyXG4gIGhlaWdodDogNjUuNXB4O1xyXG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcblxyXG4gIG1hdC1wbGFjZWhvbGRlciB7XHJcbiAgICBmbGV4OiAyIDEgYXV0bztcclxuICB9XHJcbn1cclxuXHJcbm1hdC1pY29uIHtcclxuICBtYXJnaW46IDAgNnB4IDZweCAwO1xyXG4gIGZvbnQtc2l6ZTogMjBweDtcclxufVxyXG5cclxubWF0LWZvcm0tZmllbGQge1xyXG4gIGZsZXg6IDEgMCBhdXRvO1xyXG59XHJcbiIsIi5jb250YWluZXIge1xuICBtYXJnaW4tdG9wOiAyMHB4O1xufVxuXG5oMSB7XG4gIG1hcmdpbjogMCAwIDIwcHggMDtcbiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcbn1cblxuaDIge1xuICBtYXJnaW46IDAgMCAxMHB4IDA7XG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XG59XG5cbi5ncm91cCB7XG4gIG1hcmdpbjogMCAwIDQwcHggMDtcbn1cblxuLmljb24tZm9ybS1maWVsZCB7XG4gIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgaGVpZ2h0OiA2NS41cHg7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG59XG4uaWNvbi1mb3JtLWZpZWxkIG1hdC1wbGFjZWhvbGRlciB7XG4gIGZsZXg6IDIgMSBhdXRvO1xufVxuXG5tYXQtaWNvbiB7XG4gIG1hcmdpbjogMCA2cHggNnB4IDA7XG4gIGZvbnQtc2l6ZTogMjBweDtcbn1cblxubWF0LWZvcm0tZmllbGQge1xuICBmbGV4OiAxIDAgYXV0bztcbn0iXX0= */");
+/* harmony default export */ __webpack_exports__["default"] = (".container {\n  margin-top: 20px;\n}\n\nh1 {\n  margin: 0 0 20px 0;\n  text-transform: uppercase;\n}\n\nh2 {\n  margin: 0 0 10px 0;\n  text-transform: uppercase;\n}\n\n.group {\n  margin: 0 0 40px 0;\n}\n\n.icon-form-field {\n  position: relative;\n  display: -webkit-box;\n  display: flex;\n  height: 65.5px;\n  -webkit-box-align: center;\n          align-items: center;\n}\n\n.icon-form-field mat-placeholder {\n  -webkit-box-flex: 2;\n          flex: 2 1 auto;\n}\n\nmat-icon {\n  margin: 0 6px 6px 0;\n  font-size: 20px;\n}\n\nmat-form-field {\n  -webkit-box-flex: 1;\n          flex: 1 0 auto;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvZmVhdHVyZXMvc2V0dGluZ3Mvc2V0dGluZ3MvSjpcXEludGVsbGlqUHJvamVjdHNcXGx5bGktdWkvc3JjXFxhcHBcXGZlYXR1cmVzXFxzZXR0aW5nc1xcc2V0dGluZ3NcXHNldHRpbmdzLWNvbnRhaW5lci5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvZmVhdHVyZXMvc2V0dGluZ3Mvc2V0dGluZ3Mvc2V0dGluZ3MtY29udGFpbmVyLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsZ0JBQUE7QUNDRjs7QURFQTtFQUNFLGtCQUFBO0VBQ0EseUJBQUE7QUNDRjs7QURFQTtFQUNFLGtCQUFBO0VBQ0EseUJBQUE7QUNDRjs7QURFQTtFQUNFLGtCQUFBO0FDQ0Y7O0FERUE7RUFDRSxrQkFBQTtFQUNBLG9CQUFBO0VBQUEsYUFBQTtFQUNBLGNBQUE7RUFDQSx5QkFBQTtVQUFBLG1CQUFBO0FDQ0Y7O0FEQ0U7RUFDRSxtQkFBQTtVQUFBLGNBQUE7QUNDSjs7QURHQTtFQUNFLG1CQUFBO0VBQ0EsZUFBQTtBQ0FGOztBREdBO0VBQ0UsbUJBQUE7VUFBQSxjQUFBO0FDQUYiLCJmaWxlIjoic3JjL2FwcC9mZWF0dXJlcy9zZXR0aW5ncy9zZXR0aW5ncy9zZXR0aW5ncy1jb250YWluZXIuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuY29udGFpbmVyIHtcclxuICBtYXJnaW4tdG9wOiAyMHB4O1xyXG59XHJcblxyXG5oMSB7XHJcbiAgbWFyZ2luOiAwIDAgMjBweCAwO1xyXG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XHJcbn1cclxuXHJcbmgyIHtcclxuICBtYXJnaW46IDAgMCAxMHB4IDA7XHJcbiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcclxufVxyXG5cclxuLmdyb3VwIHtcclxuICBtYXJnaW46IDAgMCA0MHB4IDA7XHJcbn1cclxuXHJcbi5pY29uLWZvcm0tZmllbGQge1xyXG4gIHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuICBkaXNwbGF5OiBmbGV4O1xyXG4gIGhlaWdodDogNjUuNXB4O1xyXG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcblxyXG4gIG1hdC1wbGFjZWhvbGRlciB7XHJcbiAgICBmbGV4OiAyIDEgYXV0bztcclxuICB9XHJcbn1cclxuXHJcbm1hdC1pY29uIHtcclxuICBtYXJnaW46IDAgNnB4IDZweCAwO1xyXG4gIGZvbnQtc2l6ZTogMjBweDtcclxufVxyXG5cclxubWF0LWZvcm0tZmllbGQge1xyXG4gIGZsZXg6IDEgMCBhdXRvO1xyXG59XHJcbiIsIi5jb250YWluZXIge1xuICBtYXJnaW4tdG9wOiAyMHB4O1xufVxuXG5oMSB7XG4gIG1hcmdpbjogMCAwIDIwcHggMDtcbiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcbn1cblxuaDIge1xuICBtYXJnaW46IDAgMCAxMHB4IDA7XG4gIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7XG59XG5cbi5ncm91cCB7XG4gIG1hcmdpbjogMCAwIDQwcHggMDtcbn1cblxuLmljb24tZm9ybS1maWVsZCB7XG4gIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgaGVpZ2h0OiA2NS41cHg7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG59XG4uaWNvbi1mb3JtLWZpZWxkIG1hdC1wbGFjZWhvbGRlciB7XG4gIGZsZXg6IDIgMSBhdXRvO1xufVxuXG5tYXQtaWNvbiB7XG4gIG1hcmdpbjogMCA2cHggNnB4IDA7XG4gIGZvbnQtc2l6ZTogMjBweDtcbn1cblxubWF0LWZvcm0tZmllbGQge1xuICBmbGV4OiAxIDAgYXV0bztcbn0iXX0= */");
 
 /***/ }),
 
@@ -109,9 +109,9 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "SettingsContainerComponent", function() { return SettingsContainerComponent; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "../../node_modules/tslib/tslib.es6.js");
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "../../node_modules/@angular/core/fesm2015/core.js");
-/* harmony import */ var _ngrx_store__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @ngrx/store */ "../../node_modules/@ngrx/store/fesm2015/store.js");
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _ngrx_store__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @ngrx/store */ "./node_modules/@ngrx/store/fesm2015/store.js");
 /* harmony import */ var _core_core_module__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../core/core.module */ "./src/app/core/core.module.ts");
 /* harmony import */ var _core_settings_settings_actions__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../core/settings/settings.actions */ "./src/app/core/settings/settings.actions.ts");
 /* harmony import */ var _core_settings_settings_selectors__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../core/settings/settings.selectors */ "./src/app/core/settings/settings.selectors.ts");
@@ -170,11 +170,10 @@ SettingsContainerComponent.ctorParameters = () => [
 SettingsContainerComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
     Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
         selector: 'anms-settings',
-        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./settings-container.component.html */ "../../node_modules/raw-loader/dist/cjs.js!./src/app/features/settings/settings/settings-container.component.html")).default,
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./settings-container.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/features/settings/settings/settings-container.component.html")).default,
         changeDetection: _angular_core__WEBPACK_IMPORTED_MODULE_1__["ChangeDetectionStrategy"].OnPush,
         styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./settings-container.component.scss */ "./src/app/features/settings/settings/settings-container.component.scss")).default]
-    }),
-    tslib__WEBPACK_IMPORTED_MODULE_0__["__metadata"]("design:paramtypes", [_ngrx_store__WEBPACK_IMPORTED_MODULE_2__["Store"]])
+    })
 ], SettingsContainerComponent);
 
 
