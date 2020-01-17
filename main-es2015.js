@@ -1689,7 +1689,7 @@ let RestApiService = class RestApiService {
         this.http = http;
         this.store = store;
         this.localStorageService = localStorageService;
-        this.apiUrl = 'https://us-central1-lyl-dev-264210.cloudfunctions.net/myNodejsApp';
+        this.apiUrl = 'https://lyl-dev-264210.appspot.com';
         this.postSignUp = (email, password) => {
             return this.http.post(this.apiUrl + '/auth/signup', {
                 email,
